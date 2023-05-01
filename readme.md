@@ -1,0 +1,1 @@
+# An assistant for doing simple tasks, like controlling the automation of the house, reminders, scheduling, etc on command
