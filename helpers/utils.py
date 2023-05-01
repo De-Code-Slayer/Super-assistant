@@ -8,6 +8,14 @@ class Task:
         self.deadline = deadline
         self.owner = owner
 
-    def create(self, name=None, description=None, date_created=None, date_updated=None, deadline=None, owner=None):
-        
+    def create(self):
+        # create a task in the db
+        pass
+
+    def remove(self):
+        # re,ove a task from the db
+        pass
+
+    def list_all(self):
+        # query all task in the db
         pass
