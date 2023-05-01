@@ -19,3 +19,9 @@ class Task:
     def list_all(self):
         # query all task in the db
         pass
+
+
+class Reminder:
+    pass
+
+

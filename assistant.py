@@ -11,3 +11,12 @@ class Assistant:
         pass
         
         
+    def make(self):
+            """
+                make a call,
+                reservation,
+                task,
+                prediction
+                etc
+            """
+            pass
