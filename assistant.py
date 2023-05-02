@@ -1,4 +1,5 @@
 # class for assistant
+from typing import Date
 
 class Assistant:
 
@@ -20,3 +21,8 @@ class Assistant:
                 etc
             """
             pass
+
+
+class House:
+     def __init__(self, room, temperature: int, time_of_day: Date, devices: list, ):
+          pass
