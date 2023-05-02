@@ -24,5 +24,5 @@ class Assistant:
 
 
 class House:
-     def __init__(self, room, temperature: int, time_of_day: Date, devices: list, ):
+     def __init__(self, room: list, temperature: int, time_of_day: Date, devices: list, ):
           pass
