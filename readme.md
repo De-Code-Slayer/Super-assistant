@@ -2,7 +2,8 @@
 
 
 
-Supper Assistant is an Ai powered assistant to help learn patterns and adjust the smart devices and equipmments at home for efficiency in power, Bills, and performance.
+Supper Assistant is an Ai powered assistant to help with running and managing  of all internal systems of buildings, 
+help learn patterns and adjust smart devices and equipmments at home for efficiency in power, Bills, and performance.
 
 
 # Table of Contents
