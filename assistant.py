@@ -1,13 +1,16 @@
 # class for assistant
-from typing import Date
+from datetime import date
+from .helpers.data_types import Voice, Lang
+from typing import Optional
+
 
 class Assistant:
 
-    def __init__(self, voice):
+    def __init__(self, voice: Voice):
         self.voice = voice
 
 
-    def speak(self, lang='en', words=None):
+    def speak(self, words: str, lang: Optional[Lang] = Lang.english):
         # call speak enginge to speak the passed word
         pass
         
@@ -26,14 +29,7 @@ class Assistant:
 class House:
 
     # characteristics of a simple/basic House
-     def __init__(self, room: list, temperature: int, time_of_day: Date, devices: list, ):
+     def __init__(self, room: list, temperature: int, time_of_day: date, devices: list, ):
           pass
 
-
-class Smart_Device:
-     """
-     for modeling a device, and methods on how the device connects to the internet and interact with the system
-     
-     """
-     pass
 
