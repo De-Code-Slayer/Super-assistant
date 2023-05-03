@@ -24,5 +24,16 @@ class Assistant:
 
 
 class House:
+
+    # characteristics of a simple/basic House
      def __init__(self, room: list, temperature: int, time_of_day: Date, devices: list, ):
           pass
+
+
+class Smart_Device:
+     """
+     for modeling a device, and methods on how the device connects to the internet and interact with the system
+     
+     """
+     pass
+
